@@ -19,7 +19,7 @@ export const SignIn: React.FC = () => {
     if (email === MOCKEMAIL && password === MOCKPASSWORD) {
       nagigate("/home");
     } else {
-      alert("Email or Password is invalid!!");
+      alert("Email or Password is invalid!");
     }
   };
 
