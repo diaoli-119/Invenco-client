@@ -7,7 +7,7 @@ import { Button } from "../../components/Button/Button";
 import { InputBox } from "../../components/InputBox/InputBox";
 
 const MOCKEMAIL = "test@gmail.com";
-const MOCKPASSWORD = "112233";
+const MOCKPASSWORD = "11223344";
 
 export const SignIn: React.FC = () => {
   const nagigate = useNavigate();
