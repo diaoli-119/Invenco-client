@@ -5,7 +5,7 @@ import { Colors } from "../../constants/Colors";
 export const Home: React.FC = () => {
   return (
     <div style={homeBackground}>
-      <h1>Welcome Home</h1>
+      <h1>Happy Christmas</h1>
     </div>
   );
 };
